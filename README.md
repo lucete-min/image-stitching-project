@@ -60,6 +60,12 @@ Final stitched panorama:
 
 ---
 
+## Execution
+
+![execution](screenshot.png)
+
+---
+
 ## Notes
 
 * Images must have sufficient overlap for proper matching
